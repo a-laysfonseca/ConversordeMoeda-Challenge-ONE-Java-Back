@@ -1,0 +1,13 @@
+﻿# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Arquivos compilados
+*.class
+*.jar
+
+# Arquivos temporários do IntelliJ (opcional)
+.shelf/
+workspace.xml
+"@ | Out-File -FilePath .gitignore -Encoding utf8 -Force
